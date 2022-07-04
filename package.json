@@ -16,6 +16,6 @@
         "express": "^4.17.1",
         "hbs": "^4.2.0",
         "http": "0.0.1-security",
-        "mongoose": "^5.9.26"
+        "mongoose": "^5.13.14"
     }
 }
